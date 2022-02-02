@@ -1,88 +1,84 @@
 {
   "magic_abilities": [
     {
-      "name" : 
-      "cooldown" :
-      "ability_damage_min" :
-      "ability_damage_max" :
-      "adren"
+      "name" : "dragon_breath"
+      "cooldown" : "17"
+      "duration" : "3"
+      "ability_damage_min" : "0.376"
+      "ability_damage_max" : "1.88"
+      "type" : "basic"
     },
     {
-      "name" :
-      "cooldown" :
-      "ability_damage_min" :
-      "ability_damage_max" :
-      "adren"
+      "name" : "greater_conc"
+      "cooldown" : "9"
+      "duration" : "3"
+      "ability_damage_min" : "0.534"
+      "ability_damage_max" : "2.67"
+      "type" : "basic"
     },
     {
-      "name" :
-      "cooldown" :
-      "ability_damage_min" :
-      "ability_damage_max" :
-      "adren"
+      "name" : "sonic_wave"
+      "cooldown" : "9"
+      "duration" : "3"
+      "ability_damage_min" : "0.314"
+      "ability_damage_max" : "1.57"
+      "type" : "basic"
     },
     {
-      "name" :
-      "cooldown" :
-      "ability_damage_min" :
-      "ability_damage_max" :
-      "adren"
+      "name" : "greater_chain"
+      "cooldown" : "17"
+      "duration" : "3"
+      "ability_damage_min" : "0.2"
+      "ability_damage_max" : "1.0"
+      "type" : "basic"
     },
     {
-      "name" :
-      "cooldown" :
-      "ability_damage_min" :
-      "ability_damage_max" :
-      "adren"
+      "name" : "magma_tempest"
+      "cooldown" : "25"
+      "duration" : "3"
+      "ability_damage_min" : "0.4"
+      "ability_damage_max" : "1.52"
+      "type" : "basic"
     },
     {
-      "name" :
-      "cooldown" :
-      "ability_damage_min" :
-      "ability_damage_max" :
-      "adren"
+      "name" : "corruption_blast"
+      "cooldown" : "25"
+      "duration" : "3"
+      "ability_damage_min" : "1.00"
+      "ability_damage_max" : "3.00"
+      "type" : "basic_bleed"
     },
     {
-      "name" :
-      "cooldown" :
-      "ability_damage_min" :
-      "ability_damage_max" :
-      "adren"
+      "name" : "combust"
+      "cooldown" : "25"
+      "duration" : "3"
+      "ability_damage_min" : "1.00"
+      "ability_damage_max" : "1.88"
+      "type" : "basic_bleed"
     },
     {
-      "name" :
-      "cooldown" :
-      "ability_damage_min" :
-      "ability_damage_max" :
-      "adren"
+      "name" : "combust_walk"
+      "cooldown" : "25"
+      "duration" : "3"
+      "ability_damage_min" : "2.00"
+      "ability_damage_max" : "3.76"
+      "type" : "basic_bleed"
     },
     {
-      "name" :
-      "cooldown" :
-      "ability_damage_min" :
-      "ability_damage_max" :
-      "adren"
+      "name" : "wild_magic"
+      "cooldown" : "34"
+      "duration" : "3"
+      "ability_damage_min" : "1.00"
+      "ability_damage_max" : "4.30"
+      "type" : "threshold"
     },
     {
-      "name" :
-      "cooldown" :
-      "ability_damage_min" :
-      "ability_damage_max" :
-      "adren"
-    },
-    {
-      "name" :
-      "cooldown" :
-      "ability_damage_min" :
-      "ability_damage_max" :
-      "adren"
-    },
-    {
-      "name" :
-      "cooldown" :
-      "ability_damage_min" :
-      "ability_damage_max" :
-      "adren"
+      "name" : "asphyx"
+      "cooldown" : "34"
+      "duration" : "7"
+      "ability_damage_min" : "1.504"
+      "ability_damage_max" : "7.52"
+      "type" : "threshold"
     },
   ]
 }
