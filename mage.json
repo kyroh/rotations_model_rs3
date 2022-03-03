@@ -80,5 +80,37 @@
       "ability_damage_max" : "7.52"
       "type" : "threshold"
     },
+    {
+      "name" : "wrack"
+      "cooldown" : "5"
+      "duration" : "3"
+      "ability_damage_min" : "0.18"
+      "ability_damage_max" : "0.94"
+      "type" : "basic"
+    },
+    {
+      "name" : "wrack_bound"
+      "cooldown" : "5"
+      "duration" : "3"
+      "ability_damage_min" : "0.376"
+      "ability_damage_max" : "1.88"
+      "type" : "basic"
+    },
+    {
+      "name" : "impact"
+      "cooldown" : "25"
+      "duration" : "3"
+      "ability_damage_min" : "0.20"
+      "ability_damage_max" : "1.00"
+      "type" : "basic"
+    },
+    {
+      "name" : "impact_flank"
+      "cooldown" : "25"
+      "duration" : "3"
+      "ability_damage_min" : "1.80"
+      "ability_damage_max" : "2.60"
+      "type" : "basic"
+    },
   ]
 }
